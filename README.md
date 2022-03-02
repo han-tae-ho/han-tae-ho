@@ -2,9 +2,9 @@
 
 ---
 
-✔ Personalized Recommendation System
-✔ Computer Vision
-✔ Data Engineering
+✔ Personalized Recommendation System  
+✔ Computer Vision  
+✔ Data Engineering  
 
 ## 👦 Contact
 
