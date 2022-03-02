@@ -1,34 +1,23 @@
-## 👨‍💻 Interest
-
----
-
+# 👨‍💻 Interest
 ✔ Personalized Recommendation System  
+
 ✔ Computer Vision  
+
 ✔ Data Engineering  
 
-## 👦 Contact
-
----
-
-📭  gksdkfmacks@naver.com
+# 👦 Contact
+📭  gksdkfmacks@naver.com  
 
 📝  [Dev Blog](https://data-scientist-han.tistory.com/)
 
+# 🎞 Education
+🏫  제물포고등학교 졸업 (2010.03. ~ 2013.02.)  
 
-## 🎞 Education
+👨‍🎓  인천대학교 졸업 (2013.03 ~ 2021.02.)  
 
----
+⌨  Naver Boost Camp AI tech (2021.08 ~ 2021.12)  
 
-🏫  제물포고등학교 졸업 (2010.03. ~ 2013.02.)
-
-👨‍🎓  인천대학교 졸업 (2013.03 ~ 2021.02.)
-
-⌨  Naver Boost Camp AI tech (2021.08 ~ 2021.12)
-
-## 🏆 Project
-
----
-
+# 🏆 Project
 ### 🥇 Personal Project
 
 - Article cwaling
