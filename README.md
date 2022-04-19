@@ -1,5 +1,5 @@
 # 👨‍💻 Interest
-✔ Personalized Recommendation System  
+✔ Smart Factory
 
 ✔ Computer Vision  
 
